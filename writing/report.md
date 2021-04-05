@@ -19,7 +19,7 @@ In my opinion, the two sequences may be related, but not very closely related to
 
  4. What proof do you have to suggest such a claim?
 
-x
+The proof that I have to suggest that the two sequences are related but not closely related is the gap score of the allignment. By looking at this score of -2, it suggests that the penalty given to the allignment is not high, but also is not low. It is low enough to suggent relation, but not low enough to suggest close relation.
 
 
 #### Part 2
