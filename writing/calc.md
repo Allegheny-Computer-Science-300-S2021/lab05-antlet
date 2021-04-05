@@ -24,43 +24,43 @@ a)
 
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               x
+- Left entry calculation:          x
+- Above entry calculation:         x
+- Diagonal entry calculation:      x
+- Max score: 1 from the Diagonal   x
 
 
 c)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               x
+- Left entry calculation:          x
+- Above entry calculation:         x
+- Diagonal entry calculation:      x
+- Max score: 1 from the Diagonal   x
 
 
 d)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               x
+- Left entry calculation:          x
+- Above entry calculation:         x
+- Diagonal entry calculation:      x
+- Max score: 1 from the Diagonal   x
 
 
 e)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               x
+- Left entry calculation:          x
+- Above entry calculation:         x
+- Diagonal entry calculation:      x
+- Max score: 1 from the Diagonal   x
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               x
+- Left entry calculation:          x
+- Above entry calculation:         x
+- Diagonal entry calculation:      x
+- Max score: 1 from the Diagonal   x
 
 
 
