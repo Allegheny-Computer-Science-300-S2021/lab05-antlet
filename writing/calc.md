@@ -1,5 +1,5 @@
-#### Name: Add Your Name Here
-#### Date: 29 March 2021
+#### Name: Thomas Antle
+#### Date: 05 April 2021
 #### What this is: Calculations from the manual work out of the Needleman-Wunsch algorithm.
 
 ### Instructions: Local Alignment calculations
@@ -24,43 +24,43 @@ a)
 
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch: A = T is a mismatch
+- Left entry calculation: -1 - 2 = -3
+- Above entry calculation: -2 - 1 = -3
+- Diagonal entry calculation: -1 -1 = -2
+- Max score: -2 from the Diagonal
 
 
 c)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch: T = A is a mismatch
+- Left entry calculation: -2 - 1 = -3
+- Above entry calculation: -1 - 2 = -3
+- Diagonal entry calculation: -1 - 1 = -2
+- Max score: -2 from the Diagonal
 
 
 d)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch: T = T is a match
+- Left entry calculation: -2 - 2 = -4
+- Above entry calculation: -2 - 2 = -4
+- Diagonal entry calculation: 0 + 1 = 1
+- Max score: 1 from the Diagonal
 
 
 e)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch: G = A is a mismatch
+- Left entry calculation: -3 -1 = -4
+- Above entry calculation: -1 - 3 = -4
+- Diagonal entry calculation: -2 - 1 = -3
+- Max score: -3 from the Diagonal
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch: G = T is a mismatch
+- Left entry calculation: -3 - 2 = -5
+- Above entry calculation: -2 - 3 = -5
+- Diagonal entry calculation: -1 - 1 = -2
+- Max score: -2 from the Diagonal
 
 
 
